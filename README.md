@@ -6,5 +6,16 @@ Firebase performed as the backend services of the application so that developers
 or APIS. It offers real-time data reads and writes, but also comes with a powerful and flexible security system that allows 
 you to write secure client-only apps, without needing any server code.
 
-We can create app either by using Javascript SDK or by using Nodejs SDK. Here i am trying to build a basic web app with
-NodeJs SDK.
+They offers Javascript SDK or Nodejs SDK to add Firebase to your app. Here i am trying to build a basic web app with
+NodeJs SDK which should be 2.x or higher version of the Firebase SDK.
+
+<h3>Installation</h3>
+Download app from this repo
+
+<pre>npm install</pre>
+
+<h3>Run app</h3>
+<pre>
+$ node app
+## Navigate to http://localhost:5000/
+</pre>
