@@ -1,0 +1,29 @@
+{
+  "name": "playlists-web",
+  "version": "1.0.0",
+  "description": "Favorite lists of music which you would like to play",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kavyavsagar/web-playlists.git"
+  },
+  "keywords": [
+    "Bootstrap 4",
+    "Expressjs",
+    "Firebase"
+  ],
+  "author": "Kavya Sagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavyavsagar/web-playlists/issues"
+  },
+  "homepage": "https://github.com/kavyavsagar/web-playlists#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "firebase": "^4.13.1"
+  }
+}
